@@ -222,3 +222,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+collections:
+  stories:
+    output: true
+    sort_by: index
