@@ -1,10 +1,16 @@
 ---
-title: Welcome and Introduction
+title: Our LEGO Ideas journey
 tags: 
 show_date: false
 show_tags: false
 index: 1
 ---
+This post describes some experiences my son and I had as we walked the path of designing and submitting our Automated Side-Loading Garbage Truck project to the LEGO Ideas program. For our bottom line lessons and the link to download free truck plans, scroll to the end.
+You may have seen our truck design either in the LEGO Ideas program in the third review in 2020 or more recently in series 4 of the BrickLink Designer Program.
+
+![A rendered image of version 26 of the truck](/assets/images/scott-and-levi-booth-brickworld-2019.jpeg){:.rounded.shadow}
+
+
 ![Scott and Levi at BrickWorld Chicago 2019](/assets/images/scott-and-levi-booth-brickworld-2019.jpeg){:.rounded.shadow}
 
 Welcome to our site. This is where we share the full story of our process of designing and submitting an automated side-loading garbage truck project to the LEGO Ideas program. Our path has been a long and winding one, but with the return assignment of all rights to the project to LEGO expiring in June 2024 and our subsequent release of free plans [on rebrickable](https://rebrickable.com/mocs/MOC-203494/MochiMaster/automated-side-loading-garbage-truck) our journey with this project is now basically complete. 
