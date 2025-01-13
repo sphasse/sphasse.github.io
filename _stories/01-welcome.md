@@ -8,7 +8,7 @@ index: 1
 This post describes some experiences my son and I had as we walked the path of designing and submitting our Automated Side-Loading Garbage Truck project to the LEGO Ideas program. For our bottom line lessons and the link to download free truck plans, scroll to the end.
 You may have seen our truck design either in the [LEGO Ideas program](https://ideas.lego.com/projects/7d7f4e15-55e7-44c4-bb30-3a66b9cc0598) in the third review in 2020 or more recently in series 4 of the BrickLink Designer Program.
 
-![A rendered image of version 26 of the truck](/assets/images/scott-and-levi-booth-brickworld-2019.jpeg){:.rounded.shadow}
+![A rendered image of version 26 of the truck](/assets/images/Garbage truck v26 rebrickable 1.png){:.rounded.shadow}
 
 Both of those competitions are completed, so we’re not trying to promote our project in any way. What we are trying to do is set the record straight. After LEGO released their [42167 Mack LR Electric Garbage Truck](https://www.lego.com/en-us/product/mack-lr-electric-garbage-truck-42167) set with a bin arm very similar to our design, people have contacted us to ask if it was our design, and there have been third party videos with titles like “Is Lego Stealing People’s Designs?”. 
 The short answer for us is no, but we want to share our full perspective to help set the record straight with respect to the bin arm design of our truck project and the bin arm design LEGO released with the 42167 Mack Electric Garbage Truck set. If you’ve ever thought about submitting to LEGO Ideas, our experience may hold some lessons for you. This article is fairly long and winding, like our journey designing the truck and submitting it to LEGO Ideas.
