@@ -5,6 +5,7 @@ show_date: false
 show_tags: false
 index: 4
 ---
+# Introduction
 This page contains details on all of the potential precursor mechanisms that we are aware of. Please take a close look at all of these potential precursor, and compare the significant differneces between each of these mechanisms and our design, compared to the small differences between our bin arm design and the bin arm design in set 42167. The fundamental question is: Would the side loading bin arm of set 42167 exist as it is if we had not innovated and released our bin arm design via LEGO Ideas? LEGO says it would (“no inspiration”), but we think the answer is pretty clear that it would not.
 
 But it is worth understanding the potential precursor mechansims in detail, as this has come up in forum discussions about our set. We’ve even seen comments like “The mechanism they copied from sets 8094, 8868 and 8479 in the first place.” and “It could be argued that that Ideas project's author was the one who stole the idea from LEGO: that kind of grab-and-lift mechanism was already present at least in 8094, 8479 and 9736.” so these are claims we take quite seriously. 
