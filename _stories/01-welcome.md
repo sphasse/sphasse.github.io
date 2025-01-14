@@ -46,11 +46,13 @@ As we’ve discussed this issue in various forums some common themes and questio
 
 Questions and answers are below.
 
-## Question: Hasn’t the LEGO group released lots of garbage trucks in the past already?
+## Question: Just another garbage truck?
+*Hasn’t the LEGO group released lots of garbage trucks in the past already?*
 
 Our specific claim is about the implementation of the side-loading bin arm mechanism only. We believe that implementation of our side-loading mechanism is novel in terms of the scale, functionality, and purpose. None of the LEGO garbage trucks prior to set 42167 had a functioning side-loading mechanism. A number of them (6693, 30313, and 60386 for example) did have clunky manual mechanisms for dumping trash cans. We are not claiming that the idea of a LEGO garbage truck is novel. Our claim is that our functional side-loading bin arm mechanism is novel. Of course LEGO has made lots of garbage truck sets and will continue to do so.
 
-## Question: Couldn’t the LEGO designer have come up with the design independently from yours?
+## Question: Independent design?
+*Couldn’t the LEGO designer have come up with the design independently from yours?*
 
 If you watch any of the LEGO Designer videos, you can see that the LEGO designers are passionate professionals. They do not design “clean room” implementations, but dive into their subject matter deeply and do extensive research.
 Our LEGO Ideas submission happened before the real-life Mack LR Electric Garbage Truck was announced, and almost four years before the announcement set 42167. We know LEGO product development timelines can be long but we think this timeline eliminates the possibility of parallel development. So for a LEGO designer to come up with the design independently, they would have to be assigned the job to work on a Mack automated side-loading garbage truck design and have no awareness of:
@@ -65,7 +67,8 @@ Our LEGO Ideas submission happened before the real-life Mack LR Electric Garbage
 
 This could be clarified by asking the designer of set 42167, but as far as we are aware, LEGO has not released who designed the set nor have they come forward to provide their perspective. Nor has the designer of the set come forward to take credit as happens often on Brickset for instance. We are not sure why, but we would love to get their perspective. Milan Reindl has said in a 42167 review video that he did not design 42167.
 
-## Question: Couldn’t LEGO have been developing set 42167 since before your truck project was submitted? 
+## Question: LEGO started before you?
+*Couldn’t LEGO have been developing set 42167 since before your truck project was submitted?*
 It was well over four years between our LEGO Ideas submission and the announcement of set 42167. Here’s a brief timeline of our submitted project:
 
 * January 2019: We submit our idea to LEGO ideas
@@ -83,7 +86,8 @@ LEGO sets sometimes do take multiple years to develop. However, Mr. Jensen from 
 
 If set 42167 was in development before our LEGO Ideas submission, it seems that LEGO would have plainly stated that like they did with the Ghostbusters Firehouse Headquarters set or the Jurassic Park T-Rex Rampage set. They did not do that. Based on all that, it seems very unlikely to us that set 42167 could have been under development prior to our LEGO Ideas submission. Even if it was, the function of the specific function of the bin arm is what we are discussing in this article. This could also be definitively answered by the designer of set 42167.
 
-## Question: Haven’t other LEGO sets used this same mechanism? Your mechanism is not novel and/or other LEGO sets have used the same mechanism.
+## Question: Not novel?
+*Haven’t other LEGO sets used this same mechanism? Your mechanism is not novel and/or other LEGO sets have used the same mechanism.*
 If you look at the designs for LEGO side-loading garbage truck mechanisms before and after we released our design, it is clear that our design was innovative for the purposes of an automated side-loading garbage truck bin arm. It has been frequently copied after being released. There was plenty of market demand for a functional LEGO side loading bin arm if one had existed. But one did not exist until we released our design. 
 
 In various forums where this issue has been discussed people have pointed to other potential precursor mechanisms (sets 8094, 8479, 8869, and 9736 for instance). We’ve even seen comments like “The mechanism they copied from sets 8094, 8868 and 8479 in the first place.” and “It could be argued that the Ideas project's author was the one who stole the idea from LEGO: that kind of grab-and-lift mechanism was already present at least in 8094, 8479 and 9736.” 
@@ -92,8 +96,10 @@ Please check those sets out for yourself to see the clear and stark differences 
 
 People have also pointed out that great ball contraptions and first LEGO league robots use mechanisms like our bin arm. There are certainly a lot of creative mechanisms used for those, but none of those have translated into a working side-loading garbage truck bin arm.
 
-## Question: Does LEGO have the rights to do anything they want with your LEGO Ideas submission?
-They do have the rights to do whatever they want, but that is not what they told us. Mr. Jensen from LEGO Ideas told us (bold emphasis mine):
+## Question: Isn't LEGO prevented from copying LEGO Ideas?
+*Isn't LEGO prevented from copying ideas from LEGO Ideas in the terms?*
+
+LEGO has the rights to do literally whatever they want with your submitted idea, but that is not what they told us. Mr. Jensen from LEGO Ideas told us (bold emphasis mine):
 
 > In regards, to your message around LEGO Ideas and the rights to your submission, I think it’s worthwhile, and very important, for me to clarify that while you correctly point out that we do retain the rights to submissions for a period of 3 years after they have not been approved, expired, or archived, **it does not allow the LEGO Group to do what we want with your submission**. It’s very important for us that our members are treated fairly and consistently when it comes to the compensation that is due and have built the LEGO Ideas experience to ensure that this happens in a systematic and correct way. That being said, LEGO Ideas as a platform for fan submissions is not a platform that’s used by our internal teams as inspiration to create future sets. It’s critical to the integrity and success of LEGO Ideas that LEGO Ideas submissions are treated separately from our internal product development process and that these two processes do not overlap.
 > --Hasan Jensen, Community Activation Manager, Community Management and Moderation 1/16/2024
@@ -104,17 +110,25 @@ But this is clearly not true. Anyone submitting an idea to the LEGO Ideas progra
 
 LEGO, via Mr. Jensen’s comment, is claiming to hold themselves to a higher standard with the goal of treating their members fairly, but legally per the LEGO Ideas terms they clearly and absolutely have the rights to absolutely anything they wish with submitted designs. My son and I are lifetime fans of LEGO, but it is important to keep in mind that LEGO is a huge corporation with a lot of moving parts that ultimately at the end of the day is about making money. The Ideas program and BDP are big business.
 
-## Question: Isn’t the design obvious? There’s really only one way to implement it.
+## Question: Isn't the design obvious?
+*Isn’t the design obvious? There’s really only one way to implement it.*
+
 Everything is obvious in hindsight. LEGO set 42167 and the cloned copies of our submission show there has been plenty of market demand for a functional bin arm design if one had existed. The reality is that no one had come up with a functional side-loading bin arm mechanism at minifigure scale prior to our Ideas submission. Respected designers like JK Brickworks and Wintergatan have praised our design as brilliant, which we don’t think they would do if the design was obvious.
 
-## Question: LEGO has been accused of copying LEGO Ideas sets before and didn’t that turn out to not be true?
+## Question: Isn't LEGO innocent in previous cases like this?
+*LEGO has been accused of copying LEGO Ideas sets before and didn’t that turn out to not be true?*
+
 Ours is a very different situation from sets like the Ghostbusters Firehouse Headquarters or the Jurassic Park T-Rex Rampage. Those are making a representative model of movie intellectual property, and so the kind of overlap that happened in those cases is likely to occur sometimes. For our situation, we implemented a specific mechanical mechanism that does not work the same way as actual real-world,side-loading bin arms function. Real-world side-loading bin arms are hydraulic or (in the case of the Mack truck) perhaps electric. Rather, we created, in a novel and elegant way, an analogous side-loading bin arm function on a small scale via Technic and LEGO bricks.
 
-## Question: Why are you raising this issue? Is it just to create a controversy?
+## Question: Are you stirring up trouble?
+*Why are you raising this issue? Is it just to create a controversy?*
+
 Our aim is to set the record straight and share the facts of our journey from our perspective. We think our experience should be understood by people intending to participate in the LEGO Ideas program as it promises to foster creativity and innovation in builders of all ages.
 As my son and I reflect on our whole journey with this project, knowing what we know now we really wouldn’t do anything differently. We’ve both learned so much about so many more things that we never thought we would at the start. We’re proud that our design has had a significant influence on how LEGO trash gets collected. We want to celebrate that by sharing the instructions for free.
 
-## Question: So where can I get instructions for the truck?
+## Question: Instructions already!
+*So where can I get instructions for the truck?*
+
 You can get the instructions at [our page on Rebrickable](https://rebrickable.com/mocs/MOC-203494/MochiMaster/automated-side-loading-garbage-truck/#details). 
 
 Thank you for reading through our whole perspective, please share yours!
