@@ -29,7 +29,7 @@ Welcome to our site. This is where we share the full story of our process of des
 
 It turns out there was a lot of demand for a functional minifig-scale side-loading bin arm. Since we originally released our design on LEGO Ideas, it has been widely implemented by fans, by skilled designers like JK Brickworks who have expressed their admiration of the design, and by several unscrupulous companies that copy creative design work without giving any credit or compensation. 
 
-Specifically, Lepin released [a nearly brick-for-brick clone](https://its-not-lego.blogspot.com/2021/06/garbage-truck-moc-c5333-lego-ideas-jk.html) of our design and XingBao released [two sets](https://www.brickmeupscottie.com/products/new-xingbao-18016-18017) with a redesigned truck using our bin arm design.
+Specifically, Lepin released [a nearly brick-for-brick clone](https://its-not-lego.blogspot.com/2021/06/garbage-truck-moc-c5333-lego-ideas-jk.html) of our design and XingBao released [two sets](https://www.brickmeupscottie.com/products/new-xingbao-18016-18017) with a redesigned truck using our bin arm design. Neither company gave us any credit or compensation, and you can imagine our frustration seeing people praise them for "their clever design".
 
 Additionally, in January 2024, LEGO released the 42167 Mack LR Electric Garbage Truck set with a functional side-loading bin arm similar to our design. We believe our bin arm design inspired the bin arm on LEGO set 42167 and that LEGO set 42167 would not exist in the form it does today unless we innovated the automated side-loading bin arm mechanism and shared the idea on LEGO Ideas.
 
