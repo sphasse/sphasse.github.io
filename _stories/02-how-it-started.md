@@ -16,7 +16,8 @@ It is easy to see the substantial differences and how huge and clunky all of tho
 * Method of force transmittal: Our mechanism uses an asymmetric gear train.
 * Function: Our design smoothly grabs and dumps the contents of a container and returns the empty container to the ground. None of these do that.
 * Our mechanism is hand operated and all of these are motorized.
-* Temporal proximity: It has been 25 years since the most recent of those sets. LEGO set 42167 and the cloned copies of our submission show there has been plenty of market demand for a functional bin arm design if one had existed. LEGO set 42167 was released shortly after our LEGO Ideas project, in fact during the three-year time period when LEGO still had rights to our project via our LEGO Ideas submission. 
+
+There is also a significant difference in temporal proximity between these sets and our design. It has been 25 years since the most recent of those sets. LEGO set 42167 and the cloned copies of our submission show there has been plenty of market demand for a functional bin arm design if one had existed. If the prior sets inspired a minifig scale functional automated side-loading bin arm, it should have existed long ago. By way of contrast, LEGO set 42167 was released shortly after our LEGO Ideas project, during the three-year time period when LEGO still had rights to our design via our LEGO Ideas submission. 
 
 Let’s take a close at all of the sets that have been brought to our attention that allegedly use the same mechanism:
 
