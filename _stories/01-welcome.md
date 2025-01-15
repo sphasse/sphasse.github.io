@@ -36,6 +36,7 @@ Additionally, in January 2024, LEGO released the 42167 Mack LR Electric Garbage 
 LEGO does not see it that way. After set 42167 was announced, we reached out to Hasan Jensen at LEGO Ideas and the LEGO Ideas team, and this was a part of Mr. Jensen’s response (bold emphasis mine):
 
 > Unfortunately, this means we will not be able to provide any credit, as inspiration for this design [set 42167] is not connected to your design.
+>
 > --Hasan Jensen, Community Activation Manager, Community Management and Moderation 1/16/2024
 
 We think the inspiration is quite obvious just by looking at what existed prior and the two mechanisms, how they are integrated into the trucks, and how they function. We’ve had a lot of people reach out and tell us the same. We also understand that there are plenty of people who will jump to the defense of LEGO in this situation. We’re huge fans of LEGO ourselves and LEGO has been a significant part of our lives and will continue to be in the future. However, The LEGO Group is a huge corporation that ultimately does what is in their best interest. 
@@ -82,6 +83,7 @@ It was well over four years between our LEGO Ideas submission and the announceme
 LEGO sets sometimes do take multiple years to develop. However, Mr. Jensen from LEGO Ideas told us: 
 
 > In regard to the MACK LR Electric Garbage Truck 42167, this was developed in partnership with our long-term collaborators at MACK Trucks, with whom we also have launched 42078 Mack Anthem in 2018 based on designs of their vehicle. 42167 is an extension of that partnership based on the MACK LR Electric Garbage Truck vehicle (as would be found here https://www.youtube.com/watch?v=NQFtAnm7D-c), which includes a side-loading function as part of the real vehicle. When entering into partnerships with license holders, it’s not uncommon to have a longer-term roadmap and vision for that partnership, including products that may come in the future.
+> 
 > --Hasan Jensen, Community Activation Manager, Community Management and Moderation 1/16/2024
 
 If set 42167 was in development before our LEGO Ideas submission, it seems that LEGO would have plainly stated that like they did with the Ghostbusters Firehouse Headquarters set or the Jurassic Park T-Rex Rampage set. They did not do that. Based on all that, it seems very unlikely to us that set 42167 could have been under development prior to our LEGO Ideas submission. Even if it was, the function of the specific function of the bin arm is what we are discussing in this article. This could also be definitively answered by the designer of set 42167.
@@ -102,6 +104,7 @@ People have also pointed out that great ball contraptions and first LEGO league 
 LEGO has the rights to do literally whatever they want with your submitted idea, but that is not what they told us. Mr. Jensen from LEGO Ideas told us (bold emphasis mine):
 
 > In regards, to your message around LEGO Ideas and the rights to your submission, I think it’s worthwhile, and very important, for me to clarify that while you correctly point out that we do retain the rights to submissions for a period of 3 years after they have not been approved, expired, or archived, **it does not allow the LEGO Group to do what we want with your submission**. It’s very important for us that our members are treated fairly and consistently when it comes to the compensation that is due and have built the LEGO Ideas experience to ensure that this happens in a systematic and correct way. That being said, LEGO Ideas as a platform for fan submissions is not a platform that’s used by our internal teams as inspiration to create future sets. It’s critical to the integrity and success of LEGO Ideas that LEGO Ideas submissions are treated separately from our internal product development process and that these two processes do not overlap.
+> 
 > --Hasan Jensen, Community Activation Manager, Community Management and Moderation 1/16/2024
 
 But this is clearly not true. Anyone submitting an idea to the LEGO Ideas program should be aware of this. Specifically from the [LEGO Ideas terms](https://ideas.lego.com/terms) version 3.0 that you can find online (bold emphasis again mine):
