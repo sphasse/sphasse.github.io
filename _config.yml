@@ -199,6 +199,10 @@ exclude:
   - /screenshots
   - /test
   - /vendor
+  - /docker
+  - /tools
+  - Dockerfile.dev
+  - screenshot.jpg
 
 defaults:
   - scope:
