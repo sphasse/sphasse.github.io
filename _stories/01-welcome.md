@@ -74,6 +74,7 @@ This could be clarified by asking the designer of set 42167, but as far as we ar
 
 ## Question: LEGO started before you?
 *Couldn’t LEGO have been developing set 42167 since before your truck project was submitted?*
+
 It was well over four years between our LEGO Ideas submission and the announcement of set 42167. Here’s a brief timeline of our submitted project:
 
 * January 2019: We submit our idea to LEGO ideas
@@ -98,6 +99,7 @@ If set 42167 was in development before our LEGO Ideas submission, it seems that 
 
 ## Question: Not novel?
 *Haven’t other LEGO sets used this same mechanism? Your mechanism is not novel and/or other LEGO sets have used the same mechanism.*
+
 If you look at the designs for LEGO side-loading garbage truck mechanisms before and after we released our design, it is clear that our design was innovative for the purposes of an automated side-loading garbage truck bin arm. It has been frequently copied after being released. There was plenty of market demand for a functional LEGO side loading bin arm if one had existed. But one did not exist until we released our design. 
 
 In various forums where this issue has been discussed people have pointed to other potential precursor mechanisms (sets 8094, 8479, 8869, and 9736 for instance). We’ve even seen comments like “The mechanism they copied from sets 8094, 8868 and 8479 in the first place.” and “It could be argued that the Ideas project's author was the one who stole the idea from LEGO: that kind of grab-and-lift mechanism was already present at least in 8094, 8479 and 9736.” 
